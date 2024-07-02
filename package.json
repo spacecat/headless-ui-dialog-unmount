@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@headlessui/react": "0.0.0-insiders.fbad6a9",
+    "@headlessui/react": "0.0.0-insiders.990b179",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18"

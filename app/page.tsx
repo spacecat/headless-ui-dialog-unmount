@@ -52,7 +52,7 @@ export default function Home() {
           open={isOpen}
           onClose={() => setIsOpen(false)}
           className="relative z-50"
-          // unmount={false}
+          unmount={false}
         >
           <DialogBackdrop
             transition
